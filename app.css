@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgb(125, 133, 207);
+    /* background-image: url(../fundomf.png);
+            background-repeat: no-repeat;
+            background-size: 1400px;
+            background-position-x: center; */
+
+}
+
+.menu {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 40pt;
+    font-family: cursive;
+
+}
+
+.submenu {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fundo img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.2;
+
+}
+.navbar{
+    position: fixed;
+    width:100%;
+    transition: background-color 1s;
+  
+  }
+  .superior{
+   font-size: 20pt;
+   text-align: left;
+   margin: 40px;
+   color: black;
+   text-decoration: none;
+   letter-spacing: 1px;
+   word-spacing: 12px;
+  }
+  .superior a{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(125, 133, 207);
+  }
+  .superior a:hover{
+    background-color: rgb(96, 150, 216);
+  }
+ 
+ 
+  
